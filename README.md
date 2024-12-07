@@ -47,7 +47,7 @@ The application uses a JSON dataset (`symptoms.json`) that includes:
 
 1. Clone the repository:
    ```bash
-   https://github.com/bhuvii007/chat-bot.git
+   https://github.com/NithinMurali-code/chatbot.git
    ```
 2. Navigate to the project directory:
    ```bash
